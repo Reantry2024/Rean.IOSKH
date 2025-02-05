@@ -1,13 +1,13 @@
 
 const apps = [
     {
-        name: 'CAPCUT PRO✅',
+        name: 'CAPCUT PRO ✅',
         url: 'https://archive.org/download/cap-cut-rty/CapCut%20-%20RTY.ipa',
-        img: 'img/CapCut-RTY.png',
+        img: 'https://reantry2024.github.io/Rean.IOSKH/img/CapCut-RTY.png',
         descriptions: 'CapCut Pro'
     },
     {
-        name: 'YOUTUBE ++✅',
+        name: 'YOUTUBE ++ ✅',
         url: 'https://sub4unlock.io/8FgUf',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Youtube ++'
@@ -19,7 +19,7 @@ const apps = [
         descriptions: 'Support iOS 14.0-16.6.1 Cập Nhật Ngày 01/01/2025'
     },
     {
-        name: 'Coin Master Speed✅',
+        name: 'Coin Master Speed ✅',
         url: 'https://sub4unlock.io/rJyuG',
         img: 'img/pf/coin.png',
         descriptions: 'Link cài Trực tiếp Cập Nhật Ngày 01/01/2025'

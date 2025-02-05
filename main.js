@@ -5,19 +5,19 @@ const texts = [
 const socials = [
     {
         name: 'facebook',
-        url: 'https://www.facebook.com/share/1XH7kThUjd/?mibextid=wwXIfr'
+        url: 'https://www.facebook.com/share/14v7KSfJjG/?mibextid=wwXIfr'
     },
     {
         name: 'messenger',
-        url: 'https://m.me/khoindvn.esigncert'
+        url: 'https://www.facebook.com/share/14v7KSfJjG/?mibextid=wwXIfr'
     },
     {
         name: 'telegram',
-        url: 'https://t.me/khoindvncert'
+        url: 'https://t.me/rean_try'
     },
     {
         name: 'zalo',
-        url: 'https://zalo.me/0386495528'}
+        url: 'https://t.me/rean_try'}
 ]
 const typingSpeed = 100; 
 const deletingSpeed = 50; 

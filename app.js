@@ -1,9 +1,9 @@
 
 const apps = [
     {
-        name: 'Liên Quân Hack Map ✅',
-        url: 'https://sub4unlock.io/IJCxp',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/cb/24/62cb2406-91ce-f31c-9b6b-6397b88afe24/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg',
+        name: 'CAPCUT PRO✅',
+        url: 'https://archive.org/download/cap-cut-rty/CapCut%20-%20RTY.ipa',
+        img: 'img/CapCut-RTY.png',
         descriptions: 'CapCut Pro'
     },
     {

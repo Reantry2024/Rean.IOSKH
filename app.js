@@ -98,12 +98,6 @@ const esigns = [
         url: 'https://api.khoindvn.eu.org/jEGeAZ',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 3'
-    },
-    {    
-        name: 'CapCut',
-        url: 'https://reantry2024.github.io/Rean.IOSKH/Plist/reantry1.plist',
-        img: 'img/CapCut-RTY.png',
-        descriptions: 'ReanTry😍'
     }
 ];
 

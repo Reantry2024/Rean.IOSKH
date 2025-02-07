@@ -95,7 +95,13 @@ const esigns = [
     },
     {
         name: 'ESign',
-        url: 'https://api.khoindvn.eu.org/nkUzql',
+        url: 'https://api.khoindvn.eu.org/jEGeAZ',
+        img: 'img/pf/profile-pic.png',
+        descriptions: 'Sunshine 3'
+    },
+    {    
+        name: 'CapCut',
+        url: https://github.com/Reantry2024/Rean.IOSKH/blob/main/document/Plist/reantry1.plist',
         img: 'img/pf/profile-pic.png',
         descriptions: 'Sunshine 4'
     }

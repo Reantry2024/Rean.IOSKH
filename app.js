@@ -101,9 +101,9 @@ const esigns = [
     },
     {    
         name: 'CapCut',
-        url: https:https://reantry2024.github.io/Rean.IOSKH/Plist/reantry1.plist',
+        url: 'https://reantry2024.github.io/Rean.IOSKH/Plist/reantry1.plist',
         img: 'img/CapCut-RTY.png',
-        descriptions: 'Sunshine 4'
+        descriptions: 'ReanTry😍'
     }
 ];
 

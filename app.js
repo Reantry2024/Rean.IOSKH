@@ -2,7 +2,7 @@
 const apps = [
     {
         name: 'CAPCUT PRO ✅',
-        url: 'https://reantry2024.github.io/Rean.IOSKH/document/Plist/CapCut.plist',
+        url: 'https://reantry2024.github.io/REAN99ios/',
         img: 'https://reantry2024.github.io/Rean.IOSKH/img/CapCut-RTY.png',
         descriptions: 'CapCut Pro'
     },

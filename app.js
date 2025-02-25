@@ -8,7 +8,7 @@ const apps = [
     },
     {
         name: 'YOUTUBE ++ ✅',
-        url: 'https://install.appcenter.ms/users/reanstar.kh11-gmail.com/apps/youtube/distribution_groups/rean%20ios',
+        url: 'https://reantry2024.github.io/REAN99ios/',
         img: 'https://reantry2024.github.io/Rean.IOSKH/img/YouTube .JPG',
         descriptions: 'Youtube ++'
     },

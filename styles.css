@@ -103,7 +103,7 @@ header {
 
 .cursor {
     margin-left: 0;
-    color: #333;
+    color: #F2D2BD;
     animation: blink 1s infinite;
 }
 
@@ -179,7 +179,7 @@ code, pre {
 }
 
 .social-btn:hover {
-    background-color: #555;
+    background-color: #F2D2BD;
 }
 .wave-container {
     
@@ -192,7 +192,7 @@ code, pre {
     
     text-align: center;
     padding: 2rem;
-    background-color: #fff;
+    background-color: #F2D2BD;
 }
 
 .skill {

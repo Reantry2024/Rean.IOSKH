@@ -8,7 +8,7 @@ const apps = [
     },
     {
         name: 'YOUTUBE ++ ✅',
-        url: 'https://reantry2024.github.io/REAN99ios/',
+        url: 'https://Rean.short.gy/vHTQ1l',
         img: 'https://reantry2024.github.io/Rean.IOSKH/img/YouTube .JPG',
         descriptions: 'Youtube ++'
     },

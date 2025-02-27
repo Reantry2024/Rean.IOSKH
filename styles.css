@@ -94,7 +94,7 @@ header {
     font-weight: 600;
 }
 #typed-text {
-    background-image: linear-gradient(45deg, #518ef7, rgb(181, 111, 246));
+    background-image: linear-gradient(45deg, #BF40BF, rgb(181, 111, 246));
     background-clip: text;
     color: transparent;
     /* color: #333; */

@@ -125,7 +125,7 @@ colorMode.addEventListener('click', () => {
     skill.style.backgroundColor = current ? 'white' : 'black';
     svg1.style.fill = current ? 'white' : 'black';
     wave2.style.backgroundColor = current ? 'white' : 'black';
-    svg2.style.fill = current ? '#BF40BF' : 'black';
+    svg2.style.fill = current ? '#BDB5D5' : 'black';
 })
 
 document.addEventListener('DOMContentLoaded', () => {
